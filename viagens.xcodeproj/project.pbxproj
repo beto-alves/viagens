@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AB4657BF242FF24900630158 /* MapaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB4657BE242FF24900630158 /* MapaView.swift */; };
 		ABEBF49D242DA31400459CD9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABEBF49C242DA31400459CD9 /* AppDelegate.swift */; };
 		ABEBF49F242DA31400459CD9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABEBF49E242DA31400459CD9 /* SceneDelegate.swift */; };
 		ABEBF4A1242DA31400459CD9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABEBF4A0242DA31400459CD9 /* ContentView.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AB4657BE242FF24900630158 /* MapaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapaView.swift; sourceTree = "<group>"; };
 		ABEBF499242DA31400459CD9 /* viagens.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = viagens.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABEBF49C242DA31400459CD9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ABEBF49E242DA31400459CD9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				ABF406AA242E5B840009BA30 /* HeaderView.swift */,
 				ABEBF4A0242DA31400459CD9 /* ContentView.swift */,
 				ABF406AC242E5DD00009BA30 /* CelulaViagemView.swift */,
+				AB4657BE242FF24900630158 /* MapaView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 				ABEBF4B5242DA47200459CD9 /* Viagem.swift in Sources */,
 				ABF406AB242E5B840009BA30 /* HeaderView.swift in Sources */,
 				ABEBF49D242DA31400459CD9 /* AppDelegate.swift in Sources */,
+				AB4657BF242FF24900630158 /* MapaView.swift in Sources */,
 				ABF406AD242E5DD00009BA30 /* CelulaViagemView.swift in Sources */,
 				ABEBF49F242DA31400459CD9 /* SceneDelegate.swift in Sources */,
 				ABEBF4A1242DA31400459CD9 /* ContentView.swift in Sources */,
